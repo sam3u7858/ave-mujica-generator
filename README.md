@@ -28,10 +28,8 @@
 - 🔐 **Local API Key** 本地儲存 API Key，不會上傳或紀錄任何內容
 
 ---
-
-## 🚀 Getting Started 快速開始
-
-### 1. Clone the project
+Font: [AnglicanText](https://www.1001fonts.com/anglicantext-font.html)  
+License: Free for commercial use (FFC by 1001fonts.com)
 
 ```bash
 git clone https://github.com/yourname/ave-mujica-generator.git
