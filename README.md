@@ -7,7 +7,7 @@
 
 ## 🌐 Test Website | 線上體驗
 
-🔗 [https://yourname.github.io/ave-mujica-generator](https://sam3u7858.github.io/ave-mujica-generator)
+🔗 [https://sam3u7858.github.io/ave-mujica-generator](https://sam3u7858.github.io/ave-mujica-generator)
 
 > 📌 部署於 GitHub Pages，建議使用桌機與 Chrome 瀏覽最佳體驗
 
