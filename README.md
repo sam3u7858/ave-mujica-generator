@@ -15,7 +15,7 @@
 
 ## 📸 Preview
 
-![screenshot](./preview.png) <!-- 放一張預覽圖片可以吸引點擊 -->
+![screenshot](./preview.jpg) 
 
 ---
 
