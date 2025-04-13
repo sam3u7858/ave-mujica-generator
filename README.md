@@ -26,7 +26,7 @@
 - 🎨 **Dynamic Preview** 自動調整字體大小，確保美觀排版
 - 💬 **Bilingual Subtitles** 顯示拉丁文原文、副標與對應中文
 - 🖼️ **Image Export** 匯出 PNG 字幕圖像（黑底劇場風格）
-- 🔐 **Local API Key** 本地儲存 API Key，不會上傳或紀錄任何內容
+- 🔐 **Local API Key** API Key只會存在你的電腦上，不會上傳或紀錄任何內容
 
 ---
 Font: [AnglicanText](https://www.1001fonts.com/anglicantext-font.html)  
