@@ -2,6 +2,7 @@
 
 > ✨ A minimalist Latin subtitle image generator with auto-translation via Google Gemini API  
 > ✨ 一款極簡風格的拉丁文字幕圖片產生器，支援自動翻譯與圖片匯出
+> ✨ 測試中！
 
 ---
 
