@@ -32,6 +32,11 @@
 Font: [AnglicanText](https://www.1001fonts.com/anglicantext-font.html)  
 License: Free for commercial use (FFC by 1001fonts.com)
 
+請注意！API Key 是一組代表你帳號的憑證，就像是密碼一樣：
+- 不要將它公開或分享給他人。
+- 若你是開發者，請改用 Proxy 或後端儲存金鑰。
+- 建議到 Google Cloud Console 設定「限制金鑰」使用範圍（例如限制只能用 Gemini、只能從特定網站觸發）。
+
 ```bash
 git clone https://github.com/yourname/ave-mujica-generator.git
 cd ave-mujica-generator
