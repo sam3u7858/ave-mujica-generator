@@ -38,6 +38,3 @@ License: Free for commercial use (FFC by 1001fonts.com)
 - 建議到 Google Cloud Console 設定「限制金鑰」使用範圍（例如限制只能用 Gemini、只能從特定網站觸發）。
 - 這個工具不會傳送、儲存你的 API Key 到除了 Gemini 的其他地方。
 
-```bash
-git clone https://github.com/sam3u7858/ave-mujica-generator.git
-cd ave-mujica-generator
