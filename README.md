@@ -39,5 +39,5 @@ License: Free for commercial use (FFC by 1001fonts.com)
 - 這個工具不會傳送、儲存你的 API Key 到除了 Gemini 的其他地方。
 
 ```bash
-git clone https://github.com/yourname/ave-mujica-generator.git
+git clone https://github.com/sam3u7858/ave-mujica-generator.git
 cd ave-mujica-generator
